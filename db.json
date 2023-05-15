@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "firstname": "ajai",
+      "lastname": "KUMAR",
+      "email": "ajaisparrow@gmail.com",
+      "password": "ajai",
+      "mobilenumber": "08754208674",
+      "id": 6
+    },
+    {
+      "firstname": "bala",
+      "lastname": "murugan",
+      "email": "bala@gmail.com",
+      "password": "ajjshh",
+      "mobilenumber": "8873887383",
+      "id": 7
+    },
+    {
+      "firstname": "balaji",
+      "lastname": "R",
+      "email": "balaji@gmail.com",
+      "password": "hjdbfff",
+      "mobilenumber": "7889886677",
+      "id": 8
+    },
+    {
+      "firstname": "ajai",
+      "lastname": "kumar",
+      "email": "ajaisparrow@gmail.com",
+      "password": "yuyt8t8t",
+      "mobilenumber": "08754208667",
+      "id": 9
+    },
+    {
+      "firstname": "maruthu",
+      "lastname": "raj",
+      "email": "maruthu@gmail.com",
+      "password": "maruthu",
+      "mobilenumber": "9896688767",
+      "id": 10
+    },
+    {
+      "firstname": "mani",
+      "lastname": "kandan",
+      "email": "mani@gmail.com",
+      "password": "udfduf",
+      "mobilenumber": "8080970090",
+      "id": 11
+    }
+  ]
+}
